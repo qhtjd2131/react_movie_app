@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Movie_detail.css";
 
 function Movie_detail(props) {
